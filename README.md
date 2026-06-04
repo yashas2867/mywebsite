@@ -5,11 +5,13 @@
 <body>
 
 <h1>My Biodata</h1>
-<p>Name: Your Name</p>
-<p>Phone: XXXXXXXX</p>
+<p>Name: Yashas</p>
+<p>Phone: 733841****</p>
 
 <h2>Education</h2>
 <p>PUC, Degree details</p>
+<li>92%</li>
+<li>studied in "THE TEAM PU COLLEGE"</li>
 
 <h2>Skills</h2>
 <ul>
